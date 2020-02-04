@@ -1,0 +1,86 @@
+body {
+  background-color: #ff4c68;
+  font-family: Montserrat-black;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.container1 {
+  background-color: #ff4c68;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.mainText {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+}
+
+.btn btn-dark {
+  margin: 50% 3% 3% 0;
+}
+
+/* navigation bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-light;
+}
+
+/* tittle image */
+.img1 {
+  width: 300px;
+  height: 500px;
+  border-radius: 28px;
+  margin-left: 10%;
+  transform: rotate(25deg);
+}
+ /* content started */
+#content{
+  padding: 2.5rem 5rem;
+  color: #000;
+  background-color: #eab0d9;
+font-family: 'Merriweather', serif;
+font-weight: bold;
+}
+#pubg_mobile_lite{
+  margin: 2rem 0;
+}
+#RULE{
+  margin-top: 1rem;
+}
+.bottom-container{
+  text-align: center;
+}
+.event_scheduler{
+  text-align: center;
+}
+#event_scheduler{
+  padding: 2.5rem 5rem;
+  background-color: #eab0d9;
+  color: #000;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
